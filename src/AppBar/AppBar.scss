@@ -1,0 +1,9 @@
+@import '../_setting.scss';
+
+.app-bar{
+    background-color: $appbar-bg-color;
+    font: size 1.5em;
+    padding-left: $gap;
+    display: flex;
+    align-items: center;
+}
